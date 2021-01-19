@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images (36.jpg</filename>
+	<path>C:\Users\deepg\Desktop\DEC2020\Tensorflow_Object_Detection\Glasses_detection\research\object_detection\images\train\images (36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>81</ymin>
+			<xmax>155</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

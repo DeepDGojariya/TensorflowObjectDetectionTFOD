@@ -1,0 +1,8 @@
+item {
+  id:1
+  name:'Glasses'
+}
+item {
+  id:2
+  name:'No-Glasses'
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2Q__ (7).jpg</filename>
+	<path>C:\Users\deepg\Desktop\DEC2020\Tensorflow_Object_Detection\Glasses_detection\research\object_detection\images\train\2Q__ (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No-Glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>56</ymin>
+			<xmax>187</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>
